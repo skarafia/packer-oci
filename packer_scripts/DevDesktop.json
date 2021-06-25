@@ -1,11 +1,11 @@
   
     { 
-      "my.user_ocid":"pasteYourUserOCID",
-      "my.tenancy_ocid": "pasteYourTenancyOCID",
-      "my.fingerprint":"pasteYourFingprint",
-      "my.availability_domain": "pasteYourAvailbilityDomain",
-      "my.region": "us-ashburn-1",
-      "my.compartment_ocid": "pasteYourCompartmentOCID",
-      "my.subnet_ocid": "pasteYourSubnetsOCID",
+      "my.user_ocid":"ocid1.user.oc1..aaaaaaaaq3ixnqcp2prk5tvuwp23qjftftefgxletblsqsf772smstb2upla",
+      "my.tenancy_ocid": "ocid1.tenancy.oc1..aaaaaaaajjo2u46zyd2h5qsj5e4d33kidcut5vwkzc7m5tsheynmgwzc7xjq",
+      "my.fingerprint":"57:aa:6d:dc:dd:d1:27:03:70:a0:79:2b:d5:2f:27:5e",
+      "my.availability_domain": "IMVq:US-SANJOSE-1-AD-1",
+      "my.region": "us-sanjose-1",
+      "my.compartment_ocid": "ocid1.compartment.oc1..aaaaaaaa6z3hupw26erffhmih4mglg6n2ksbvgelzck34mt6prgd62p3ajwa",
+      "my.subnet_ocid": "ocid1.subnet.oc1.us-sanjose-1.aaaaaaaak3ic5z2zz7332sh3qyw7obrel3mloahp74opluuwcuhwvd67r7pa",
       "my.base_image_ocid": "ocid1.image.oc1.iad.aaaaaaaamoajldhwrmbzx7s4xnrajj5b7nfrnutuebgwne4bxc7vpiap3gga"
     }
